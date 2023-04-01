@@ -3,7 +3,7 @@ This repo contains the resources for Project 3. This involves creating and entir
 
 ## Database for Engineering School
 
-![software-concept-chalk-blue-text-database-design-on-school-board-background-with-hand-drawn-programming-icons-school-board-MDPKFY](https://user-images.githubusercontent.com/102630199/229308393-6a3a9fcb-a2bf-4e24-89d0-70c7ee2b5cf9.jpg)
+![MAIN](https://user-images.githubusercontent.com/102630199/229310700-08cca224-5a18-4bd1-bd3c-641c7973c035.jpg)
 
 
 This is a PostgreSQL database project for the Engineering School at the University of Ghana. It contains tables, views, indexes, and functions that store and process data related to the courses, students, faculty, staff, and facilities of the school.
