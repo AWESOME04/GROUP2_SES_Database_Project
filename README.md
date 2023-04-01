@@ -65,9 +65,7 @@ Contributors
     ANANE GEORGE NYARKO
     DERY-KUUZUME SANDRA
     APPIAH YAW FRIMPONG
-   
-
-![image](https://user-images.githubusercontent.com/102630199/229310590-0b92ce0a-0a52-4d3a-87c7-70af66d616b7.png)
+ 
 
     PostgreSQL
     pgAdmin
