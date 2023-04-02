@@ -1,5 +1,5 @@
 # GROUP2_SES_Database_Project
-This repo contains the resources for Project 3. This involves creating and entire Databse system for the school of engineering sciences in the University of Ghana.
+This repo contains the resources for a college course as part of a 3rd Project. This involves creating an entire Databse system for the school of engineering sciences in the University of Ghana.
 
 ## Database for Engineering School
 
@@ -19,8 +19,6 @@ You also need to have the following credentials to access the database:
     username
     password
     database name
-    host name or IP address
-    port number
 
 You can obtain these credentials from the database administrator or the setup script.
 Installation
@@ -40,7 +38,7 @@ Usage
 
 To use this database, you can perform the following tasks:
 
-    Insert new data into the tables using the INSERT statement.
+    Insert new data into the tables using the INSERT statement. Note that sample data has already been included in the database.
     Update existing data in the tables using the UPDATE statement.
     Delete data from the tables using the DELETE statement.
     Query the data from the tables using the SELECT statement.
@@ -66,7 +64,3 @@ Contributors
     DERY-KUUZUME SANDRA
     APPIAH YAW FRIMPONG
  
-
-    PostgreSQL
-    pgAdmin
-    University of Ghana
