@@ -1,4 +1,4 @@
-# GROUP2_SES_Database_Project
+# Database for School of Engineering Sciences , UG
 This repo contains the resources for a college course as part of a 3rd Project. This involves creating an entire Databse system for the school of engineering sciences in the University of Ghana.
 
 ## Database for Engineering School
